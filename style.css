@@ -1,0 +1,40 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(6,72,105,0.70);
+}
+header{
+    background-color: rgba(6,72,105,0.85);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+header .row{
+    color: white;
+}
+button{
+    background-color: aqua;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    align-items: center;
+}
+section{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+footer{
+    background-color:  rgba(6,72,105,0.85);;
+}
+#right{
+    color:rgba(255,255,255,0.7);
+}
+span{
+    color:rgba(255,255,255,0.99);
+}
+button{
+    background-color: white;
+    color: rgba(6,72,105,0.85);
+}
